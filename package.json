@@ -2,7 +2,6 @@
   "name": "goit-react-hw-08-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://KaterynaMuzhetska.github.io/goit-react-hw-08-phonebook",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@reduxjs/toolkit": "^1.6.1",
@@ -56,6 +55,7 @@
   "devDependencies": {
     "eslint": "^7.30.0",
     "husky": "^7.0.1",
+    "install-peers": "^1.0.3",
     "lint-staged": "^11.0.0",
     "prettier": "^2.3.2",
     "prop-types": "^15.7.2",
